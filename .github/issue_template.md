@@ -8,8 +8,8 @@
 
 ### Please ensure that you set the Label of the issue correctly - 
 
-  - Error : The Documentation is incorrect
-  - Omission : The Documentation has omitted something important
-  - Clarification : The Documentation needs to be rewirtten in order to be clearer
-  - Code Error : One of the code-examples or patterns is incorrect
-  - Do not use the Invalid or Won't Fix Labels - they are for internal Use only
+  - **Error** : The Documentation is incorrect
+  - **Omission** : The Documentation has omitted something important
+  - **Clarification** : The Documentation needs to be rewirtten in order to be clearer
+  - **Code** **Error** : One of the code-examples or patterns is incorrect
+  - Do not use the **Invalid** or **Won't** **Fix** Labels - they are for internal Use only
